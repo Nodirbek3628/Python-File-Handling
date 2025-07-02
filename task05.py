@@ -1,10 +1,8 @@
 #. Fayldagi sonlar o‘rtachasini (average) hisoblang.
 
-sonlar = []
 with open("Input/numbers.txt") as numbers:
-    for number in numbers:
-        number = int(number)
-        sonlar.append(number)
+   
+    sonlar = list(map(int,numbers))
     
 ortasi = str(sum(sonlar)/len(sonlar))
 print(ortasi)
