@@ -1,0 +1,1 @@
+Fayldagi barcha toq sonlarni yangi `odd_numbers.txt` fayliga yozilgan; 

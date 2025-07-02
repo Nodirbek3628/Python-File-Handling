@@ -1,0 +1,2 @@
+['Zafar', 'Dilnoza', 'Kamron', 'Aziza', 'Bekzod', 'Alisher', 'Anvar', 'Bunyod'] 
+ Ali mavjud emas 

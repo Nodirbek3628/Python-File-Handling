@@ -1,0 +1,1 @@
+{'4': ['Ali', 'Bekzod'], '5': ['Malika', 'Nigora'], '3': ['Sardor']}
